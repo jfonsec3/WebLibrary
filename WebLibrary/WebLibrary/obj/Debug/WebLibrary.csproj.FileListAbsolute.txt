@@ -1,0 +1,6 @@
+C:\Users\Jacky\source\repos\WebLibrary\WebLibrary\bin\Debug\WebLibrary.dll
+C:\Users\Jacky\source\repos\WebLibrary\WebLibrary\bin\Debug\WebLibrary.pdb
+C:\Users\Jacky\source\repos\WebLibrary\WebLibrary\obj\Debug\WebLibrary.csprojAssemblyReference.cache
+C:\Users\Jacky\source\repos\WebLibrary\WebLibrary\obj\Debug\WebLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\source\repos\WebLibrary\WebLibrary\obj\Debug\WebLibrary.dll
+C:\Users\Jacky\source\repos\WebLibrary\WebLibrary\obj\Debug\WebLibrary.pdb
